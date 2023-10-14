@@ -1,6 +1,8 @@
 # Olá Pessoal! :vulcan_salute:
 
-- 🌱 Estou me aprofundando em **Javascript e Nodejs**
+- 🌱 Desenvolvedor Back-end com conhecimento em JavaScript e Node.JS;
+
+Estou sempre em busca de adquirir conhecimento, seja para evoluir nas tecnologias que já sei, como também adquirindo conhecimento sobre novas tecnologias, com o objetivo de me tornar um profissional cada vez mais capacitado.
 
 ## :point_right: Para me encontrar:
 
